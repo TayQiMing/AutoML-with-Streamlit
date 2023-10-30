@@ -22,6 +22,4 @@ Basically,
 
 <br>
 
-**NOTE:** <br>
-The "Modeling" part has the problem of return empty data while comparing the model, maybe due to incompatible of libraries version, left it for future modification. If you have the solution for it kindly please do leave a comment below. 🥰
 
